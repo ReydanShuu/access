@@ -1,1 +1,2 @@
-*inst*
+www.intel.com
+*.intel.com
