@@ -2,3 +2,4 @@ www.intel.com
 *.intel.com
 nnmclub.to
 *nnmclub*
+rutracker.*
