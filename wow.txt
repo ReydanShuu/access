@@ -9,4 +9,4 @@ reports.ongc.co.in
 www.kjo.com.sa
 13.91.95.74
 13.107.246.53
-consumer.intel.com
+consumer.intel.com*
